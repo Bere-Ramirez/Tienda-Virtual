@@ -2,8 +2,8 @@
 
 # TIENDA VIRTUAL "NOCHE ESTRELLADA" 
 
-- **Marroquin Mendoza Karla Alejandra**
 - **Velasco Ramirez Berenice**
+- **Marroquin Mendoza Karla Alejandra**
 - **Ensayo de un Modelo, Vista, Controlador (MVC)**
 - **Instituto Tecnológico de Tláhuac I**
 - **Ingeniería en Sistemas Computacionales**
